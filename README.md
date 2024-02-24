@@ -13,14 +13,13 @@
 **Version Control:** `Git` `Bitbucket`
 
 ## ⚡ Fun Facts
-- Activities: Drums, Videography, Video-Games, Building PCs...
-- I also love watching films and series and listening to music
+- Activities: **Drums**, **Videography**, **Video-Games**, **Building PCs**...
+- I also love watching **movies**, **series** and listening to **music**
 - I have a deep interest in the filmmaking process:
   - Cinematography
   - Directing
   - Screenwriting
   - Editing
-  - etc...
 
 ## 📧 Contact Me
 - mattheweng.cs@gmail.com
