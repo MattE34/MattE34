@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, my name is Matt 👋
+- 📖 I'm currently studying **CS** & **DS** @ Rutgers University
+- 🖥 I'm currently working on new **projects** and **opportunities**
+- 🌱 I’m currently learning about **databases** & **data management**
 
-<!--
-**MattE34/MattE34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Computer Programming
+**Languages:** `Java` `Python` `C` `R`
+**Frontend Development:** `JavaScript` `CSS` `HTML` `React`
+**Backend Development:** `Firebase` `NodeJS`  
+**Version Control:** `Git` `Bitbucket`
 
-Here are some ideas to get you started:
+## ⚡ Fun Facts
+- Activities: Drums, Videography, Video-Games, Building PCs
+- I also love watching films and series and listening to music
+- I have a deep interest in the filmmaking process:
+  - Cinematography
+  - Directing
+  - Screenwriting
+  - Editing
+  - etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Contact Me
+- [Email](mattheweng.cs@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/matthew-eng-23017524b/)
