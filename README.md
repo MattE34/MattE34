@@ -5,12 +5,15 @@
 
 ## 📦 Computer Programming
 **Languages:** `Java` `Python` `C` `R`
+
 **Frontend Development:** `JavaScript` `CSS` `HTML` `React`
+
 **Backend Development:** `Firebase` `NodeJS`  
+
 **Version Control:** `Git` `Bitbucket`
 
 ## ⚡ Fun Facts
-- Activities: Drums, Videography, Video-Games, Building PCs
+- Activities: Drums, Videography, Video-Games, Building PCs...
 - I also love watching films and series and listening to music
 - I have a deep interest in the filmmaking process:
   - Cinematography
@@ -20,5 +23,5 @@
   - etc...
 
 ## 📧 Contact Me
-- [Email](mattheweng.cs@gmail.com)
+- mattheweng.cs@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/matthew-eng-23017524b/)
