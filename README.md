@@ -23,4 +23,4 @@
 
 ## 📧 Contact Me
 - mattheweng.cs@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/matthew-eng-23017524b/)
+- [LinkedIn](https://www.linkedin.com/in/matteng34/)
